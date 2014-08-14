@@ -1,2 +1,2 @@
-I'm modifying this from master
+Now this is the final changed version
 bla
